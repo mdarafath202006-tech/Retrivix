@@ -2,6 +2,8 @@
 
 A small, inspectable full-text search engine in Python. It implements document ingestion, tokenization, an inverted index, BM25 ranking, JSON persistence, and a CLI without external dependencies.
 
+**Browser preview:** [retrivix-mdarafath202006.vercel.app](https://retrivix-mdarafath202006.vercel.app/). The hosted page is a standalone UI demonstration; it does not call the Python CLI or search engine.
+
 ## Requirements
 - Python 3.10+
 - No third-party packages
